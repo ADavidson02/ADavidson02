@@ -4,12 +4,12 @@ My name is Amanda Davidson and I am a software developer from Colorado.  I have 
 - 🌱 I’m currently learning ... React Redux
 
 ## Technologies & Tools
-![](https://img.shields.io/badge/React-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/Jest-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/Git-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/CHAI-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/MOCHA-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
 
 ### You can also find me on:
