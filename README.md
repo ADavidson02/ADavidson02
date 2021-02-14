@@ -1,7 +1,7 @@
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Amanda Davidson and I am a software developer from Colorado.  I have a backgroud in the hospitality industry. I am excited to bring my skills with team collarboration and problem solving to my new career as a software developer.
 
-- 🌱 I’m currently learning ... React Redux
+- 🌱 I’m currently learning ...Cypress and React Redux
 
 ## Technologies & Tools
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
