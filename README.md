@@ -20,7 +20,7 @@ My name is Amanda Davidson and I am a software developer from Colorado.  I have 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/amanda-davidson02)
 
 [<imp src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>](AmandaADavidson@hotmail.com)
-
+[My website](https://www.amandadavidson.io/)
 
 <!--
 **ADavidson02/ADavidson02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
